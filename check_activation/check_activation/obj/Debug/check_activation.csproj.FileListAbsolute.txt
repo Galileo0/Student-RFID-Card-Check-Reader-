@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\bin\Debug\check_activation.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\bin\Debug\check_activation.exe
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\bin\Debug\check_activation.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\obj\Debug\check_activation.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\obj\Debug\check_activation.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\obj\Debug\check_activation.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\obj\Debug\check_activation.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\obj\Debug\check_activation.exe
+c:\users\administrator\documents\visual studio 2015\Projects\check_activation\check_activation\obj\Debug\check_activation.pdb
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\bin\Debug\check_activation.exe.config
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\bin\Debug\check_activation.exe
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\bin\Debug\check_activation.pdb
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\obj\Debug\check_activation.csprojAssemblyReference.cache
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\obj\Debug\check_activation.Form1.resources
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\obj\Debug\check_activation.Properties.Resources.resources
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\obj\Debug\check_activation.csproj.GenerateResource.cache
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\obj\Debug\check_activation.csproj.CoreCompileInputs.cache
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\obj\Debug\check_activation.exe
+C:\Users\galilio\Desktop\temp\check_activation\check_activation\obj\Debug\check_activation.pdb
